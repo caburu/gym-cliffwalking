@@ -18,4 +18,5 @@ There is not a renderization of the environment (issue #1). Pull requests with t
 
 ## Installation and Use
 
-Install the package with `pip install -e gym-cliffwalking` and create create an instance of the environment with `gym.make('gym_cliffwalking:cliffwalking-v0')`.
+To install the package you need to clone (or download) the repository and use the command `pip install -e gym-cliffwalking`. 
+To create an instance of the environment in python code use `gym.make('gym_cliffwalking:cliffwalking-v0')`.
